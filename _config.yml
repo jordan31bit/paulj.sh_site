@@ -1,9 +1,9 @@
 ### your site title here
 
 title: Paul J
-description: Code Monkey | DIY Carpentry | Automovtive
+description: Unrealized Code Monkey | DIY Carpentry | Shade-Tree Mechanic
 
-baseurl: #/gradfolio #name of GitHub repository
+#baseurl: #/gradfolio #name of GitHub repository
 url: "http://paulj.sh" #custom url to be used instead of GitHub repository
 email: "pauljcrowe@outlook.com"
 
@@ -13,7 +13,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-# linkedin: "#"
+linkedin: "linkedin.com/in/jordan-crowe-876254233"
 # stackoverflow: "#"
 github: "https://github.com/jordan31bit"
 # researchgate: "#"
