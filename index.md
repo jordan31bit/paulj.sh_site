@@ -5,9 +5,13 @@ profile:
   align: right
   image: profile.jpg
 published: true
+pagination:
+  enabled: true
+
 ---
+
 ### ABOUT ME
-- A recent 2024 graduate
+- A recent 2024 graduate 
 - Loves caffiene
 - COBOL and mainframes <3
 
